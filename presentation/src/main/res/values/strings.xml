@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search</string>
+    <string name="no_results">No results</string>
+    <string name="back">Back</string>
+    <string name="categories_screen">Categories screen</string>
+    <string name="categories">Categories</string>
+    <string name="browse_by_category">Browse by Category</string>
+</resources>
